@@ -1,0 +1,23 @@
+{
+  "name": "reactChatty",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^0.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakeoverall/reactChatty.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jakeoverall/reactChatty/issues"
+  },
+  "homepage": "https://github.com/jakeoverall/reactChatty"
+}
